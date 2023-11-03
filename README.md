@@ -2,4 +2,4 @@
 
 ## Salvando Alterações
 *comando git push
-*outra linha
+*comando git pull
